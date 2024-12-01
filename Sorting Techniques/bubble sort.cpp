@@ -1,4 +1,6 @@
- #include <iostream>
+//Bubble sort:- 
+
+#include <iostream>
 using namespace std;
 int main()
 {
@@ -11,7 +13,7 @@ int main()
     {
     	cout<<arr[i]<<"\t";
 	}
-	cout<<"After sortig of the array the result is \n";
+	cout<<"After Bubble sortig of the array the result is \n";
 	for(int i=0;i<s;i++)
 	{
 		for(int j=0;j<s-1;j++)
