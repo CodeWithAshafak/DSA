@@ -5,7 +5,7 @@
 //{
 //int arr[]={12,23,31,40,15,60};
 //int sorted,tmp;
-//int n=sizeof(arr)/sizeof(arr[0]);
+//int n=sizeof(arr)/sizeof(arr[0]);+
 //int count=0;
 //
 //
